@@ -42,5 +42,5 @@ This project presents an interactive Power BI dashboard built to analyze road ac
 - Business-oriented analysis of real-world data
 
 ## 📬 Contact
-Feel free to reach out via [LinkedIn](#) or email if you want to discuss or collaborate!
+Feel free to reach out via [LinkedIn](linkedin.com/in/pankaj-negi-30b721281) or email if you want to discuss or collaborate!
 
