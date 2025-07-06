@@ -3,7 +3,7 @@
 This project presents an interactive Power BI dashboard built to analyze road accident data across different categories such as region, time, vehicle type, and accident severity.
 
 ## 📁 File
-- `Road Accident Data.pbix` – Power BI report file
+- `Road Accident Dashboard.pbix` – Power BI report file
 
 ## 📊 Features
 - Total Casualties, Total Accidents, and YoY Analysis
